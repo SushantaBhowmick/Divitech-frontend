@@ -98,7 +98,7 @@ const Header = () => {
                     <NavLink to='/'>Home</NavLink>
                     <NavLink to='/store'>Our Store</NavLink>
                     <NavLink to='/blogs'>Blogs</NavLink>
-                    <NavLink to='/contact'>Contact</NavLink>
+                    <NavLink to='/contact'>Contacts</NavLink>
                   </div>
                 </div>
               </div>
